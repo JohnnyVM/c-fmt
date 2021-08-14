@@ -1,0 +1,3 @@
+[submodule "simple_dict"]
+	path = simple_dict
+	url = git@github.com:JohnnyVM/simple_dict.git
